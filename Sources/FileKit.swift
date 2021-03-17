@@ -40,19 +40,19 @@ public enum FileKitInfo {
     /// The current version.
     ///
     /// FileKit follows [Semantic Versioning v2.0.0](http://semver.org/).
-    public static let version = "v5.0.0"
+    public static let version = "v6.0.0"
 
     /// The current release.
-    public static let release = 12
+    public static let release = 13
 
     /// FileKit is licensed under the [MIT License](https://opensource.org/licenses/MIT).
     public static let license = "MIT"
 
     /// A brief description of FileKit.
-    public static let description = "A Swift framework that allows for simple and expressive file management."
+    public static let description = "A Swift framework that allows for simple and expressive file management (Derivative of https://github.com/nvzqz/FileKit)."
 
     /// Where the project can be found.
-    public static let projectURL = "https://github.com/nvzqz/FileKit"
+    public static let projectURL = "https://github.com/ncase-inc/FileKit"
 
 }
 
